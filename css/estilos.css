@@ -9,6 +9,12 @@ body
     padding: 0;
 }
 
+#cabecera
+{
+    background: blue;
+    color:burlywood;
+}
+
 #container
 {
     width: 70%;
