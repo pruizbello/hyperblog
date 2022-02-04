@@ -1,0 +1,30 @@
+body 
+
+{
+    color: darkslategrey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px ;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera
+{
+    background: blue;
+    color:burlywood;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid gray;
+    margin: 0 auto;
+}
+
+#container h1 
+{
+    font-size: 30px;
+}
